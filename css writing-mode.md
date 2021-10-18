@@ -31,7 +31,7 @@ Sebuah elemen tulisan dengan ```writing-mode: vertical-rl;``` akan tertulis seca
 <p>Writing-Mode vertical-rl </p>
 ```
 **CSS**
-```css
+```css 
 p{
   writing-mode: vertical-rl;
 }
